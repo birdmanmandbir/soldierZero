@@ -75,3 +75,7 @@ Git LFS on github.com does not currently support pushing LFS objects to public f
 git lfs can not push fork, so I create a new one
 
 Google BulletTIme Git Youtube
+
+
+
+**由于对git lfs不熟悉, 当前代码和设置不是最新版, 但release是最新版**
