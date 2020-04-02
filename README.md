@@ -1,7 +1,7 @@
 # Soldier Zero
 *Computer Graphics Game Project*
 
-![](screenShots/startScene.png)
+![](screenShots/startScene_small.png)
 
 作为一名使用超能力的士兵，你的任务是拿到钥匙卡，寻找目标地点（目标地点地上漂浮着绿色圆圈）
 
@@ -11,9 +11,9 @@
 
 Tips：有两条各有特色的路线可以到达终点，选择你最喜欢的一条， enjoy it！
 
-![](screenShots/battle1.png)
+![](screenShots/battle1_small.png)
 
-![](screenShots/battle2.png)
+![](screenShots/battle2_small.png)
 
 ## TODO List
 
