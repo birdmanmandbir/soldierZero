@@ -1,5 +1,11 @@
-# GameBreak 
+# Soldier Zero
 *Computer Graphics Game Project*
+
+游戏中有3种不同的敌人, 体型越大血量越高, 但伤害越低, 所以一定要小心小个子敌人!
+
+如果你发现游戏过难, 可以按Q使用子弹时间技能, 敌人和你的速度都会变慢!
+
+
 
 ## 待完成
 
