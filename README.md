@@ -1,13 +1,19 @@
 # Soldier Zero
 *Computer Graphics Game Project*
 
+![](E:\F_Backup\Course\CG\Project\NewestFps\soldierZero\screenShots\startScene.png)
+
 作为一名使用超能力的士兵，你的任务是拿到钥匙卡，寻找目标地点（目标地点地上漂浮着绿色圆圈）
 
 游戏中有3种不同的敌人, 体型越大血量越高, 但伤害越低, 所以一定要小心小个子敌人!
 
 如果你发现游戏过难, 可以按Q使用子弹时间技能, 敌人和你的速度都会变慢!
 
+Tips：有两条各有特色的路线可以到达终点，选择你最喜欢的一条， enjoy it！
 
+![](E:\F_Backup\Course\CG\Project\NewestFps\soldierZero\screenShots\battle1.png)
+
+![](E:\F_Backup\Course\CG\Project\NewestFps\soldierZero\screenShots\battle2.png)
 
 ## TODO List
 
