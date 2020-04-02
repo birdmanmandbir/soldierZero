@@ -3,43 +3,34 @@
 
 ## 待完成
 
-- UI
-  - 开始画面(范)
-  - 按键配置
-- ESC or 菜单页面退出游戏
-  - 子弹时间时画面变暗, 敌人高亮, 可否做到?
-- 传送门
-  - 玩家创建(黄)
-  - 方向bug(黄)
-- 子弹实体
-  - 更换模型
-- 设计
-- 敌人配置
-- Bug
-  - AI穿模
-  - 抬头看天
-- 配音
-  - 技能声音
-  - 背景音乐
-
+- [x] UI
+  - [x] 开始画面
+  - [x] 按键配置
+- [x] ESC or 菜单页面退出游戏
+  - [ ] 子弹时间时画面变暗, 敌人高亮, 可否做到?
+- [ ] 传送门
+  - [ ] 玩家创建传送门(黄)
+  - [x] 方向bug(黄)
+- [ ] 子弹实体
+  - [ ] 更换模型
+- [x] 关卡设计(范)
+- [x] 敌人配置(范)
+- [x] Bug
+  - [x] AI穿模
+  - [x] 抬头时场景穿模
+- [ ] 配音
+  - [ ] 技能声音
+  - [ ] 背景音乐
+- [x] 开场动画(黄)
 
 
 ##  AI（范）
-1. 更智能的AI，更多的机制（投降）。
+1. 更智能的AI，更多的机制。
     1. 如果技能点点在潜行, 就缩小视角, 但是减少主角血量
     
 ##  武器建模（范）
 可以多设计几种武器模式
 不同的炮弹颜色表示传送门和攻击
-    
-##  开场动画（待选）
-其他工作做完了再做
-    
-##  开机动画（平面设计，黄）
-logo
-    
-##  关卡设计 (范)
-看传送门视频提取设计元素
     
 ## 链接
 [Git团队协作使用规范](https://blog.csdn.net/u011077672/article/details/78819324)  
@@ -47,6 +38,7 @@ logo
 [微元素(素材网)](https://www.element3ds.com/)  
 [github上fork原项目，如何将本地仓库代码更新到最新版本？](https://www.cnblogs.com/eyunhua/p/8463200.html)  
 [git命令学习](https://git-scm.com/book/zh/v1/%E8%B5%B7%E6%AD%A5)  
+
 ## 模型资源地址
 - **Unity-Resources-Particle Pack** *有爆炸, 火焰, 火箭等*
 - 游戏蛮牛
@@ -56,13 +48,7 @@ logo
 - 微元素
 
 
-## Problem
-
-~~发现无法push到fork的仓库, 应该是需要在新分支中push
-
-~~能不能合并仓库?
-
-
+## Git LFS
 
 lfs需要先装好再建仓库, 已经建好的则需要删掉重建
 
@@ -72,6 +58,6 @@ Git LFS on github.com does not currently support pushing LFS objects to public f
 
 
 
-
+git lfs can not push fork, so I create a new one
 
 Google BulletTIme Git Youtube
